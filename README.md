@@ -1,5 +1,5 @@
 👋 Hi, I’m @weegary
-- I am a PhD candidate in Water Resources and Environmental Engineering at Tamkang University, Taiwan.
+- PhD in Water Resources and Environmental Engineering at Tamkang University, Taiwan.
 - Currently working as research assitant too.
 - I have been coding using C# for more than 10 years. (Since 2011)
   - I have been writing algorithms primary for artificial intelligence (AI) and data analysis.
