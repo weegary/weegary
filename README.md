@@ -1,6 +1,7 @@
 👋 Hi, I’m @weegary
+- (1) Lead Developer in Maju AI Solutions, Malaysia.
+- (2) Lead Research Assistant at Information Center for Water Environment, Taiwan.
 - PhD in Water Resources and Environmental Engineering at Tamkang University, Taiwan.
-- Currently working as research assitant too.
 - I have been coding using C# for more than 10 years. (Since 2011)
   - I have been writing algorithms primary for artificial intelligence (AI) and data analysis.
   - 🌱 I’m currently learning Blazor for web development.
