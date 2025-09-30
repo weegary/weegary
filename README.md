@@ -4,9 +4,9 @@
 - PhD in Water Resources and Environmental Engineering at Tamkang University, Taiwan.
 - I have been coding using C# for more than 14 years (Since 2011), Python for more than 9 years (Since 2016).
   - I have been writing algorithms primary for artificial intelligence (AI) and data analysis.
-  - 🌱 I’m using Blazor for web development.
-  - 👀 I’m interested in VR/AR, gaming too.
-  - I am also familiar with Matlab, C++, Javascript, HTML, CSS, Visual Basic.
+  - AI Implementation: LLMs, RAG, etc.
+  - Build Automation, Digitalization, Intelligent Workflow for Business.
+- ✉️ Email : gary@majuai.com.my
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/gary-wee-42868042/)
 - 🎓 Google Scholar: [Gary Wee](https://scholar.google.com.tw/citations?user=mRPtgIsAAAAJ&hl=en&oi=ao)
 
