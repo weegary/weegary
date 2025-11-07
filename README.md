@@ -7,7 +7,7 @@
   - AI Implementation: LLMs, RAG, etc.
   - Build Automation, Digitalization, Intelligent Workflow for Business.
 - ✉️ Email : gary@majuai.com.my
-- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/gary-wee-42868042/)
+- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/gary-wee/)
 - 🎓 Google Scholar: [Gary Wee](https://scholar.google.com.tw/citations?user=mRPtgIsAAAAJ&hl=en&oi=ao)
 
 <!---
