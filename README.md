@@ -1,6 +1,6 @@
 👋 Hi, I’m @weegary
 - (1) AI Strategist, AI Business Solutions Consultant in Maju AI Solutions, Malaysia.
-- (2) Lead Research Assistant at Information Center for Water Environment, Taiwan.
+- (2) Lead Researcher at Information Center for Water Environment, Taiwan.
 - PhD in Water Resources and Environmental Engineering at Tamkang University, Taiwan.
 - I have been coding using C# for more than 15 years (Since 2011), Python for more than 10 years (Since 2016).
   - Business Solutions Provider: AI Agents, LLMs, RAG, Data Analysis, etc.
