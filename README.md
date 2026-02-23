@@ -1,10 +1,9 @@
 👋 Hi, I’m @weegary
-- (1) Lead Developer in Maju AI Solutions, Malaysia.
+- (1) AI Strategist, AI Business Solutions Consultant in Maju AI Solutions, Malaysia.
 - (2) Lead Research Assistant at Information Center for Water Environment, Taiwan.
 - PhD in Water Resources and Environmental Engineering at Tamkang University, Taiwan.
-- I have been coding using C# for more than 14 years (Since 2011), Python for more than 9 years (Since 2016).
-  - I have been writing algorithms primary for artificial intelligence (AI) and data analysis.
-  - AI Implementation: LLMs, RAG, etc.
+- I have been coding using C# for more than 15 years (Since 2011), Python for more than 10 years (Since 2016).
+  - Business Solutions Provider: AI Agents, LLMs, RAG, Data Analysis, etc.
   - Build Automation, Digitalization, Intelligent Workflow for Business.
 - ✉️ Email : gary@majuai.com.my
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/gary-wee/)
