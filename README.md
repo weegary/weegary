@@ -2,7 +2,7 @@
 - (1) AI Strategist, AI Business Solutions Consultant in Maju AI Solutions, Malaysia.
 - (2) Lead Researcher at Information Center for Water Environment, Taiwan.
 - PhD in Water Resources and Environmental Engineering at Tamkang University, Taiwan.
-- I have been coding using C# for more than 15 years (Since 2011), Python for more than 10 years (Since 2016).
+- Specialties:
   - Business Solutions Provider: AI Agents, LLMs, RAG, Data Analysis, etc.
   - Build Automation, Digitalization, Intelligent Workflow for Business.
 - ✉️ Email : gary@majuai.com.my
